@@ -8,10 +8,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/role-dark.svg">
-    <img src="./assets/role-light.svg" alt="Platform / DevOps Engineer at Airbus">
-  </picture>
+  <img src="./assets/role.svg" alt="Currently Platform / DevOps Engineer at Airbus">
 </p>
 
 <p align="center">
