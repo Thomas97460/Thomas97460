@@ -8,6 +8,13 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/role-dark.svg">
+    <img src="./assets/role-light.svg" alt="Platform / DevOps Engineer at Airbus">
+  </picture>
+</p>
+
+<p align="center">
   <img src="./assets/headings/projects.svg" width="800" alt="Projects">
 </p>
 
@@ -37,10 +44,17 @@
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-text-dark.svg">
+    <img src="./assets/contact-text-light.svg" width="800" alt="For a project, a demo or just a chat, reach me at:">
+  </picture>
+</p>
+
+<p align="center">
   <a href="mailto:contact@algosia.ai">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-button-dark.svg">
-      <img src="./assets/contact-button-light.svg" alt="Write to contact@algosia.ai">
+      <img src="./assets/contact-button-light.svg" alt="contact@algosia.ai">
     </picture>
   </a>
 </p>
