@@ -8,10 +8,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/projects-dark.svg">
-    <img src="./assets/headings/projects-light.svg" width="800" alt="01 / Projects: three projects, one frontier.">
-  </picture>
+  <img src="./assets/headings/projects.svg" width="800" alt="Projects">
 </p>
 
 <p align="center">
@@ -21,10 +18,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/stack-dark.svg">
-    <img src="./assets/headings/stack-light.svg" width="800" alt="02 / Stack: preferred tech stack">
-  </picture>
+  <img src="./assets/headings/stack.svg" width="800" alt="Preferred tech stack">
 </p>
 
 <p align="center">
@@ -39,10 +33,7 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/headings/contact-dark.svg">
-    <img src="./assets/headings/contact-light.svg" width="800" alt="03 / Contact: a project, a demo?">
-  </picture>
+  <img src="./assets/headings/contact.svg" width="800" alt="Contact">
 </p>
 
 <p align="center">
